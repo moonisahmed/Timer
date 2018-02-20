@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="title_activity_timer">timer</string>
+    <string name="settings">Settings</string>
+</resources>
